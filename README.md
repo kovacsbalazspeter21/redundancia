@@ -1,1 +1,6 @@
 # redundancia
+
+--router
+
+--switch
+
